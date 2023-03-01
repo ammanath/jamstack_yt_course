@@ -6,6 +6,7 @@ Netlify : https://app.netlify.com/sites/tubular-puffpuff-f6b80b/overview
 
 
 >npm init --y
+
 >npm i --save @11ty/eleventy
 
 //git
